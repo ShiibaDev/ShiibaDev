@@ -1,11 +1,7 @@
-<h1 align="center">Hello<br>I am ShibaDev</h1>
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img height="" src="https://i.pinimg.com/originals/15/90/52/1590523c699ac35c19814c211fc92317.jpg"  />
+  <img height="" src="https://i.pinimg.com/originals/52/d5/74/52d574d511513dd48448369830e0c42e.png"  />
 </div>
 
 ###
@@ -24,15 +20,18 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   <a href="https://discord.com/channels/ShibaDev#5421" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/nekostrim" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
   </a>
 </div>
 
 ###
 
-<h4 align="left">I am a Junior full stack developer. 💻<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5 for the frontend and C++ for IoT Devices using Arduino.<br><br>But my strongest language 🦾 are Node.js, Python and C++ (Arduino)</h4>
+<h4 align="left">I am a Junior full stack developer. 💻<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5 for the frontend and C++ for IoT Devices using Arduino.<br><br>But my strongest language 🦾 are Node.js, Python and Arduino Framework for C++<br><br>Feel comfortable with mongoDB for databases</h4>
 
 ###
 
