@@ -11,12 +11,6 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShiibaDev.ShiibaDev&right_color=aqua"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="54" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="54" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="54" alt="mongodb logo"  />
@@ -39,15 +33,12 @@
 
 ###
 
-<p align="left">I am a Junior full stack developer.<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5 for the frontend and C++ for IoT Devices using Arduino.<br><br>But my strongest language are Node.js, Python and C++ (Arduino)</p>
+<h4 align="left">I am a Junior full stack developer. 💻<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5 for the frontend and C++ for IoT Devices using Arduino.<br><br>But my strongest language 🦾 are Node.js, Python and C++ (Arduino)</h4>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&custom_title=Shiba's Stats&username=ShiibaDev" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&custom_title=Most top 5 used language (Shiba)&username=ShiibaDev" height="150" alt="languages graph"/>
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShiibaDev.ShiibaDev&left_color=blue&right_color=dimgray&left_text=Visits"  />
 
 ###
