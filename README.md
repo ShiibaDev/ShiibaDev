@@ -32,7 +32,7 @@
 
 <h4 align="left">I am a Junior full stack developer. 💻<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5 for the frontend and C++ for IoT Devices using Arduino.<br><br>But my strongest language 🦾 are Node.js, Python and Arduino Framework for C++<br><br>Feel comfortable with mongoDB for databases</h4>
 
-<h4 align="left">Roadmap I am following => (Roadmap)[https://github.com/ShiibaDev/Roadmap-FullStack]</h4>
+<h4 align="left">Roadmap I am following => [https://github.com/ShiibaDev/Roadmap-FullStack]</h4>
 
 ###
 
