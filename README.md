@@ -4,7 +4,8 @@
   <img height="" src="https://i.pinimg.com/originals/bf/03/d3/bf03d36d6d2c24ed8f89db865dba6bf7.png"  />
 </div>
 
-<h1><strong>Hi there guys, first of all, credits to the original artist of the banner I got on the readme</strong></h1>
+<h1><strong>Hi there guys.</strong></h1>
+<p>First of all, credits to the original artist of the banner I got on this readme, I edited the background (The side of the code) and the tree of tech.</p>
 <p>I am <strong>David</strong>, AKA ShibaDev. I am studying software engineering by myself for now. I got 5 years dedicating to this.</p>
 
 ###
