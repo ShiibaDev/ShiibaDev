@@ -17,7 +17,7 @@
 </div>
 
 <div align="left">
-  <h2><strong>Technologies I studied</strong></h2>
+  <h2><strong>Technologies I know</strong></h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="54" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="54" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="54" alt="cplusplus logo"  />
