@@ -47,13 +47,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShiibaDev.ShiibaDev&left_color=blue&right_color=dimgray&left_text=Visits"  />
-
-###
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiibadev&show_icons=true&theme=onedark&locale=en&layout=compact" alt="shiibadev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiibadev&show_icons=true&theme=onedark&locale=en" alt="shiibadev" /></p>
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShiibaDev.ShiibaDev&left_color=blue&right_color=dimgray&left_text=Visits"  />
 
