@@ -47,7 +47,6 @@
 ###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiibadev&theme=dark" alt="shiibadev" /></p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&cover_image=false&theme=default&show_offline=false&background_color=1e001f&interchange=true&bar_color=4f4eb1)](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&redirect=true)
 
 ###
 
