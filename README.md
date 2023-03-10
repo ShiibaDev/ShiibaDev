@@ -6,7 +6,9 @@
 
 <h1><strong>Hi there guys.</strong></h1>
 <p>First of all, credits to the original artist of the banner I got on this readme, I edited the background (The side of the code) and the tree of tech.</p>
-<p>I am <strong>David</strong>, AKA ShibaDev. I am studying software engineering by myself for now. I got 5 years dedicating to this.</p>
+<p>I am <strong>David</strong>, AKA ShibaDev. I am studying software engineering by myself for now. I got 5 years of experience.</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&cover_image=false&theme=default&show_offline=false&background_color=0f001f&interchange=true&bar_color_cover=false&bar_color=460066)](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&redirect=true)
 
 ###
 
