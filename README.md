@@ -5,46 +5,53 @@
 </div>
 
 <h1><strong>Hi there guys.</strong></h1>
-<p>First of all, credits to the original artist of the banner I got on this readme, I edited the background (The side of the code) and the tree of tech.</p>
-<p>I am <strong>David</strong>, AKA ShibaDev. I am studying software engineering by myself for now. I got 5 years of experience.</p>
+<h2>First of all, credits to the original artist of the banner I got on this readme, I edited the background (The side of the code) and the tree of tech.</h2>
+<h2>I am <strong>David</strong>, AKA ShibaDev. I am studying software engineering by myself for now. I got 5 years of experience.</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&cover_image=false&theme=default&show_offline=false&background_color=0f001f&interchange=true&bar_color_cover=false&bar_color=460066)](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&redirect=true)
+<h3 align="left">I am a Junior full stack developer. 💻<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5 for the frontend and C++ for IoT Devices using Arduino.<br><br>But my strongest language and frameworks 🦾 are Node.js, JavaScript, Arduino, also I work with web tools<br><br>Feel comfortable with mongoDB for databases</h3>
+
+###
+
+<h1>Roadmap</h1>
+
+<h4 align="left">I following a roadmap to become a great full stack 📚</h4>
+<p>Click the icon ;)</p>
+
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/ShiibaDev/Roadmap-FullStack)
 
 ###
 
 <div align="left">
-  <h2><strong>Technologies I normally work</strong></h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="54" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="54" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="54" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="54" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-</div>
+  <h2>My comfort zone UwU</h2>
+  
+  [![My Skills](https://skillicons.dev/icons?i=eclipse,js,nodejs,html,css,tailwindcss,github,git,stackoverflow)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=cpp,arduino)](https://skillicons.dev)
 
-<div align="left">
-  <h2><strong>Technologies I know</strong></h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="54" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="54" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="54" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="54" alt="arduino logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/channels/ShibaDev#5421" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/nekostrim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
-  </a>
+  <h2>I can work with them, but I don't very experienced</h2>
+  
+  [![My Skills](https://skillicons.dev/icons?i=cs,python,django,mongodb,bash,solidity)](https://skillicons.dev)
+  
+  <h2>Editors I use</h2>
+  
+  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/es/)
 </div>
 
 ###
 
-<h4 align="left">I am a Junior full stack developer. 💻<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5 for the frontend and C++ for IoT Devices using Arduino.<br><br>But my strongest language 🦾 are Node.js, Python and Arduino Framework for C++<br><br>Feel comfortable with mongoDB for databases</h4>
+<div align="left">
+  <h2>Contact me</h2>
+  
+  [![Contact me](https://skillicons.dev/icons?i=discord)](https://discord.gg/neVe8ZnsXn)
+</div>
+
+###
 
 <h4 align="left">Roadmap I am following => [https://github.com/ShiibaDev/Roadmap-FullStack]</h4>
+
+###
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&cover_image=false&theme=default&show_offline=false&background_color=0f001f&interchange=true&bar_color_cover=false&bar_color=460066)](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&redirect=true)
 
 ###
 
