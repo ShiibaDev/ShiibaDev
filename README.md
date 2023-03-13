@@ -24,17 +24,17 @@
 ###
 
 <div align="left">
-  <h2>My comfort zone UwU</h2>
+  <h1>My comfort zone UwU</h1>
   
   [![My Skills](https://skillicons.dev/icons?i=eclipse,js,nodejs,html,css,tailwindcss,github,git,stackoverflow)](https://skillicons.dev)
   
   [![My Skills](https://skillicons.dev/icons?i=cpp,arduino)](https://skillicons.dev)
 
-  <h2>I can work with them, but I don't very experienced</h2>
+  <h1>I can work with them, but I don't very experienced</h1>
   
   [![My Skills](https://skillicons.dev/icons?i=cs,python,django,mongodb,bash,solidity)](https://skillicons.dev)
   
-  <h2>Editors I use</h2>
+  <h1>Editors I use</h1>
   
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/es/)
 </div>
@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <h2>Contact me</h2>
+  <h1>Contact me</h1>
   
   [![Contact me](https://skillicons.dev/icons?i=discord)](https://discord.gg/neVe8ZnsXn)
 </div>
