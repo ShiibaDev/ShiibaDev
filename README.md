@@ -6,10 +6,10 @@
 
 <div align="left">
   <h1><strong>Hi there guys.</strong></h1>
-  <h2>First of all, credits to the original artist of the banner I got on this readme, I edited the background (The side of the code) and the tree of tech.</h2>
-  <h2>I am <strong>David</strong>, AKA ShibaDev. I am studying software engineering by myself for now. I got 5 years of experience.</h2>
+  <p>First of all, credits to the original artist of the banner I got on this readme, I edited the background (The side of the code) and the tree of tech. <br><br>
+    I am <strong>David</strong>, AKA ShibaDev. I am studying software engineering by myself for now. I got 5 years of experience.</p>
 
-  <h3 align="left">I am a Junior full stack developer. 💻<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5    for the frontend and C++ for IoT Devices using Arduino.<br><br>But my strongest language and frameworks 🦾 are Node.js, JavaScript, Arduino, also I work with web tools<br>      <br>Feel comfortable with mongoDB for databases</h3>
+  <p align="left">I am a Junior full stack developer. 💻<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5    for the frontend and C++ for IoT Devices using Arduino.<br><br>But my strongest language and frameworks 🦾 are Node.js, JavaScript, Arduino, also I work with web tools<br>      <br>Feel comfortable with mongoDB for databases</p>
 </div>
 
 ###
