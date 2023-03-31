@@ -14,54 +14,45 @@
 
 ###
 
-<h1>Roadmap</h1>
+<h2>Roadmap</h2>
 
 <h4 align="left">I following a roadmap to become a great full stack 📚</h4>
 <p>Click the icon ;)</p>
 
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/ShiibaDev/Roadmap-FullStack)
+[![Roadmap](https://skillicons.dev/icons?i=github)](https://github.com/ShiibaDev/Roadmap-FullStack)
 
 ###
 
 <div align="left">
-  <h1>My comfort zone UwU</h1>
+  <h2>My comfort zone UwU</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=eclipse,js,nodejs,html,css,tailwindcss,github,git,stackoverflow,cpp,arduino,php,mysql)](https://skillicons.dev)
 
-  <h1>I can work with them, but I don't very experienced</h1>
+  <h2>I can work with them, but I don't very experienced</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=cs,python,django,mongodb,bash,solidity)](https://skillicons.dev)
-  
-  <h1>Editors I use</h1>
-  
-  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/es/)
 </div>
 
 ###
 
 <div align="left">
-  <h1>Contact me</h1>
+  <h2>Contact me</h2>
   
   [![Contact me](https://skillicons.dev/icons?i=discord)](https://discord.gg/neVe8ZnsXn)
 </div>
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&cover_image=false&theme=default&show_offline=false&background_color=0f001f&interchange=true&bar_color_cover=false&bar_color=460066)](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&redirect=true)
-
+  <h2>Editors I use</h1>
+  
+  [![My editors](https://skillicons.dev/icons?i=vscode,visualstudio,atom)](https://skillicons.dev)
+  
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiibadev&theme=dark" alt="shiibadev" /></p>
+  <h2>My spotify uwu</h2>
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&cover_image=false&theme=default&show_offline=false&background_color=0f001f&interchange=true&bar_color_cover=false&bar_color=460066)](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&redirect=true)
 
 ###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiibadev&show_icons=true&theme=onedark&locale=en&layout=compact" alt="shiibadev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiibadev&show_icons=true&theme=onedark&locale=en" alt="shiibadev" /></p>
-
-###
-
-<br clear="both">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShiibaDev.ShiibaDev&left_color=blue&right_color=dimgray&left_text=Visits"  />
-
