@@ -49,7 +49,7 @@
   
 ###
 
-  <h2>My spotify uwu</h2>
+  <h2>My spotify =w=</h2>
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&cover_image=false&theme=default&show_offline=false&background_color=0f001f&interchange=true&bar_color_cover=false&bar_color=460066)](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&redirect=true)
 
