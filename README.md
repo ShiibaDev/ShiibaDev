@@ -43,7 +43,7 @@
 
 ###
 
-  <h2>Editors I use</h1>
+  <h2>IDEs I use</h1>
   
   [![My editors](https://skillicons.dev/icons?i=vscode,visualstudio,atom)](https://skillicons.dev)
   
