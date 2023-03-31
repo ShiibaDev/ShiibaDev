@@ -26,9 +26,7 @@
 <div align="left">
   <h1>My comfort zone UwU</h1>
   
-  [![My Skills](https://skillicons.dev/icons?i=eclipse,js,nodejs,html,css,tailwindcss,github,git,stackoverflow)](https://skillicons.dev)
-  
-  [![My Skills](https://skillicons.dev/icons?i=cpp,arduino)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=eclipse,js,nodejs,html,css,tailwindcss,github,git,stackoverflow,cpp,arduino,php,mysql)](https://skillicons.dev)
 
   <h1>I can work with them, but I don't very experienced</h1>
   
