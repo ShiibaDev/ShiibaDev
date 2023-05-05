@@ -20,11 +20,11 @@
 ###
 
 <div align="left">
-  <h2>My comfort zone UwU</h2>
+  <h2>My stack :)</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=eclipse,js,nodejs,html,css,tailwindcss,github,git,stackoverflow,cpp,arduino,php,mysql)](https://skillicons.dev)
 
-  <h2>I can work with them, but I don't very experienced</h2>
+  <h2>Still studying them</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=cs,python,django,mongodb,bash,solidity)](https://skillicons.dev)
 </div>
@@ -45,7 +45,7 @@
   
 ###
 
-  <h2>My spotify =w=</h2>
+  <h2>What I listening</h2>
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&cover_image=false&theme=default&show_offline=false&background_color=0f001f&interchange=true&bar_color_cover=false&bar_color=460066)](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&redirect=true)
 
