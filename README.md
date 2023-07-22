@@ -1,9 +1,8 @@
 <div align="left">
-  <h1><strong>Hi there guys.</strong></h1>
-  <p>First of all, credits to the original artist of the banner I got on this readme, I edited the background (The side of the code) and the tree of tech. <br><br>
-    I am <strong>David</strong>, AKA ShibaDev. I am studying software engineering by myself for now. I got 5 years of theorical experience.</p>
+  <h1><strong>Hi there</strong></h1>
+  <p>I am <strong>David</strong>, AKA CDev.</p>
 
-  <p align="left">I am a Junior full stack developer. 💻<br>I work with Node.js and Python for the backend and use mongoDB for the databases. I work JavaScript, CSS3 and HTML5    for the frontend and C++ for IoT Devices using Arduino.</p>
+  <p align="left">I am a software engineer. 💻<br>I am very flexible with the techs, always learning, but I usually use Nextjs for the front end and Python for the back end, using SQL for the databases.</p>
   
   
 </div>
@@ -20,13 +19,13 @@
 ###
 
 <div align="left">
-  <h2>My stack :)</h2>
+  <h2>Front end</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=eclipse,js,nodejs,html,css,tailwindcss,github,git,stackoverflow,cpp,arduino,php,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss)](https://skillicons.dev)
 
-  <h2>Still studying them</h2>
+  <h2>Back end</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=cs,python,django,mongodb,bash,solidity)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,python,mysql,mongodb,django)](https://skillicons.dev)
 </div>
 
 ###
@@ -39,9 +38,9 @@
 
 ###
 
-  <h2>IDEs I use</h1>
+  <h2>Text Editor I recommend</h1>
   
-  [![My editors](https://skillicons.dev/icons?i=vscode,visualstudio,atom)](https://skillicons.dev)
+  [![My editors](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
   
 ###
 
