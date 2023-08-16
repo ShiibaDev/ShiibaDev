@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="615" width="1080" src="https://i.pinimg.com/originals/ef/a5/4b/efa54b8e9b98098e18e4e221d3b07a15.jpg"  />
+</div>
+
+###
+
 <div align="left">
   <h1><strong>Hi there</strong></h1>
   <p>I am <strong>David</strong>, AKA CDev.</p>
@@ -38,16 +44,30 @@
 
 ###
 
+<div aling="left">
+  <h2>Github Stats C:</h2>
+  
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShiibaDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiibaDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=city_lights&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+</div>
+
+###
+
   <h2>Text Editor I recommend</h1>
   
   [![My editors](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
   
 ###
 
-  <h2>What I listening</h2>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&cover_image=false&theme=default&show_offline=false&background_color=0f001f&interchange=true&bar_color_cover=false&bar_color=460066)](https://spotify-github-profile.vercel.app/api/view?uid=g8gqncymah6auzaq5r1j0ird0&redirect=true)
+  <h2>What I listening</h2>
+  
+  ![Spotify-DavidTech](https://spotify-recently-played-readme.vercel.app/api?user=g8gqncymah6auzaq5r1j0ird0&width=800)
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShiibaDev.ShiibaDev&left_color=blue&right_color=dimgray&left_text=Visits"  />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ShiibaDev.ShiibaDev&left_color=blue&right_color=dimgray&left_text=Visits"  />
