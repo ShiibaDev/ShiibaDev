@@ -25,8 +25,6 @@
 ###
 
 <div align="left">
-  <h1>Skills</h1>
-  
   <h2>Front end</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss)](https://skillicons.dev)
