@@ -25,6 +25,8 @@
 ###
 
 <div align="left">
+  <h1>Skills</h1>
+  
   <h2>Front end</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss)](https://skillicons.dev)
@@ -32,6 +34,10 @@
   <h2>Back end</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=dotnet,python,mysql,mongodb,django)](https://skillicons.dev)
+
+  <h2>Desktop / Mobile applications</h2>
+
+  [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 </div>
 
 ###
