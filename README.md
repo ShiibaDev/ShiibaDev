@@ -31,11 +31,11 @@
 
   <h2>Back end</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,python,mysql,mongodb,django)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,python,mysql,mongodb,django,nodejs)](https://skillicons.dev)
 
   <h2>Desktop / Mobile applications</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 </div>
 
 ###
