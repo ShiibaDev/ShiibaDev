@@ -6,9 +6,9 @@
 
 <div align="left">
   <h1><strong>Hi there</strong></h1>
-  <p>I am <strong>David</strong>, AKA CDev.</p>
+  <p>I am <strong>David</strong>, AKA SDev.</p>
 
-  <p align="left">I am a software engineer. 💻<br>I am very flexible with the techs, always learning, but I usually use Nextjs for the front end and Python for the back end, using SQL for the databases.</p>
+  <p align="left">I am a SWE 💻<br>I am very flexible with the techs, always learning, but I usually use Nextjs for the front end and Python for the back end, using SQL for the databases.</p>
   
   
 </div>
