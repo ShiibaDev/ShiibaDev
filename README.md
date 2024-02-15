@@ -31,7 +31,7 @@
 
   <h2>Back end</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,python,mysql,graphql,mongodb,django,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,python,nestjs,graphql,mongodb,django,nodejs)](https://skillicons.dev)
 
   <h2>Desktop / Mobile applications</h2>
 
